@@ -1,9 +1,10 @@
 # CloneMeAI - Automation Suite
 
 <div align="center">
-  <img src="https://via.placeholder.com/1200x600/050505/7c3aed?text=CloneMeAI+Enterprise+Interface" alt="CloneMeAI Interface" width="100%" />
+ <img width="1364" height="1312" alt="logo" src="https://github.com/user-attachments/assets/04afbea3-fddf-4db2-ad77-b7c98f1e153d" />
   
   <br />
+
   
   <h3>The All-In-One Identity Cloning & Content Factory</h3>
 
