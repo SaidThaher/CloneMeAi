@@ -1,7 +1,7 @@
 # CloneMeAI - Automation Suite
 
 <div align="center">
- <img width="800" height="800" alt="logo" src="https://github.com/user-attachments/assets/04afbea3-fddf-4db2-ad77-b7c98f1e153d" />
+ <img width="200" height="200" alt="logo" src="https://github.com/user-attachments/assets/04afbea3-fddf-4db2-ad77-b7c98f1e153d" />
   
   <br />
 
