@@ -8,7 +8,7 @@
   
   <h3>The All-In-One Identity Cloning & Content Factory</h3>
 
-  <a href="https://gumroad.com/l/YOUR_LINK">
+  <a href="https://cofounderai.gumroad.com/l/xqzke">
     <img src="https://img.shields.io/badge/Download-Windows_%26_Mac-7c3aed?style=for-the-badge&logo=windows&logoColor=white" height="35" />
   </a>
 </div>
@@ -33,7 +33,7 @@ We combine the power of **Google Gemini / xAI Grok** (Reasoning) with **Wavespee
 
 ## 🚀 Getting Started
 
-1.  **Download:** Get the latest version from our [Official Page](https://gumroad.com/l/YOUR_LINK).
+1.  **Download:** Get the latest version from our [Official Page](https://cofounderai.gumroad.com/l/xqzke).
 2.  **Run:** 
     *   **Windows:** Double-click `CloneMeAi.exe`.
     *   **Mac:** Open `CloneMeAi.dmg` and drag to Applications (or run directly).
