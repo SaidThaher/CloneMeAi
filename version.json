@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "downloadUrl": "https://github.com/SaidThaher/CloneMeAi/releases/tag/v1.2.1",
-  "message": "Update 1.2.1: New Enterprise Design & Kie AI Support!"
+  "version": "1.2.2",
+  "downloadUrl": "https://github.com/SaidThaher/CloneMeAi/releases/tag/v1.2.2",
+  "message": "CRITICAL SECURITY ALERT: API protocols have changed. Older versions may leak your API keys or generate corrupted images. Update to v1.2.2 immediately."
 }
